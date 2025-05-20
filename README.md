@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">yutavergil</h1>
 
-<!--
-**yutavergil/yutavergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">hello. this is a landing page for me linking a bunch of other stuff, so please feel free to check the links.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://files.catbox.moe/ccjdqg.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/eu4911w78xtx7bp26edm958ji">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eu4911w78xtx7bp26edm958ji&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+![](https://komarev.com/ghpvc/?username=yutavergil)
+###
