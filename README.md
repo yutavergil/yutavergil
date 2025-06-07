@@ -18,5 +18,5 @@
   </a>
 </div>
 
-<h2 align="center">![](https://komarev.com/ghpvc/?username=yutavergil)</h2>
+![](https://komarev.com/ghpvc/?username=yutavergil)
 ###
