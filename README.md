@@ -12,7 +12,9 @@
 
 ###
 
-[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{{yutavergil}}/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)/>
+<div align="center">
+  [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{{yutavergil}}/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
+</div>
 
 ![](https://komarev.com/ghpvc/?username=yutavergil)
 ###
