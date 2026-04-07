@@ -12,11 +12,8 @@
 
 ###
 
-<div align="center">
   ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=yutavergil&width=600&loved=true&bg_color=000000)
-</div>
-
-<div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=yutavergil)
-</div>
+
 ###
