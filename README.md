@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://files.catbox.moe/ccjdqg.gif"  />
-</div>
+  <img height="200" src="https://files.catbox.moe/ccjdqg.gif"/>
+
 
 ###
 
