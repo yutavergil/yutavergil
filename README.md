@@ -6,7 +6,7 @@
 
 ###
 
-  <img height="200" src="https://files.catbox.moe/ccjdqg.gif"/>
+  <img width="602" height="601" align="center" alt="diogeneszoide_2026-04-01_2039153486403637290" src="https://github.com/user-attachments/assets/d93bc361-f845-4c0f-b179-8a99b1ba6281" />
 
 
 ###
