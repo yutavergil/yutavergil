@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <iframe src="https://lastfm-embed.vercel.app/api/top-tracks?user=yutavergil"></iframe>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=yutavergil&width=600&bg_color=000000)
 </div>
 
 ![](https://komarev.com/ghpvc/?username=yutavergil)
