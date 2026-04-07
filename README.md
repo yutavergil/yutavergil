@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{{yutavergil}}/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
+  <iframe src="https://lastfm-embed.vercel.app/api/top-tracks?user=yutavergil"></iframe>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=yutavergil)
