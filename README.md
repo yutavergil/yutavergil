@@ -12,11 +12,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/eu4911w78xtx7bp26edm958ji">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eu4911w78xtx7bp26edm958ji&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{{your-lastfm-username}}/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)/>
 
 ![](https://komarev.com/ghpvc/?username=yutavergil)
 ###
