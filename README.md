@@ -15,8 +15,12 @@ rentry: https://rentry.co/yutavergil
 strawpage: https://yutavergil.straw.page/
   
 atabook: https://yutavergil.atabook.org/
-  
-my carrd too ig: https://ligrevatuy.carrd.co/
+
+pronouns.cc: https://pronouns.cc/@yutavergil
+
+pronouns.page: https://en.pronouns.page/@yutavergil
+
+carrd: https://yutavergil.carrd.co/
   
 last.fm: https://www.last.fm/user/yutavergil
   
